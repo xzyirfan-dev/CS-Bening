@@ -1,0 +1,6 @@
+{
+  "name": "Daily Performance Tracker",
+  "description": "Aplikasi & Web Performance Tracker untuk Cleaning Service & Building Manager Benings Glow Clinic dengan Sinkronisasi Real-Time, Foto Timestamp GPS, Mode Offline, & Laporan PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
